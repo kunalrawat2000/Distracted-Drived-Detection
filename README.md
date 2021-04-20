@@ -1,11 +1,5 @@
 # Distracted-Driver-Detection
 The objective of this work is to successfully predict the likelihood of what a driver is doing in each of the pictures in the dataset.
-The data consists on a set of images, each taken in a car where the driver is doing some action (e.g. texting, safe-driving, talking on the phone, etc). These are some examples:
-
-![texting - right](https://user-images.githubusercontent.com/54204821/115224515-9080f180-a12a-11eb-8ef0-8ffb0e8d9c82.jpg)
-![safe driving](https://user-images.githubusercontent.com/54204821/115224519-91b21e80-a12a-11eb-89e0-96a5ab36c3e8.jpg)
-![talking on the phone - left](https://user-images.githubusercontent.com/54204821/115224565-a42c5800-a12a-11eb-9bfd-abb361486f72.jpg)
-
 
 ## Motivation
   According to WHO 1.3 million people die every year in road accidents.In many cases it is been reported that cause of accidents were due to driver been distracted.<br>
@@ -47,8 +41,10 @@ The 10 classes to predict are:
 2. Feature Extraction - 90%
 
 ## Result/Output
-Note:- The gif is not much clear but you can see the output.avi where you can see the better results as there is limit of gif in github.
-
+Used finetuned vgg16 for prediction since the accuracy is higher.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/54204821/115232674-a2679200-a134-11eb-8cac-68e01cfa5b02.gif)
+<br>
+**Note**:- The gif is not much clear because there is limit of gif in github that is why i reduced the size and the video is not much clear.
+
 
 
