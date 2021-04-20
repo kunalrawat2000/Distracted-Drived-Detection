@@ -37,7 +37,7 @@ The 10 classes to predict are:
         - Then we are going add Fully Connected Layers on top of Global Average Pooling layer with  3 Dense layers and 2  dropout layers on top of VGG16 CNN model to avoid overfitting
 
 ## Winner(Accuracy)
-1. Finetuning - 97%
+1. Finetuning - 97%  *(weights are also present for it you can just load the weights and use the video classifier script for classification)*
 2. Feature Extraction - 90%
 
 ## Result/Output
