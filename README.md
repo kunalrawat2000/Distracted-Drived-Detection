@@ -41,7 +41,7 @@ The 10 classes to predict are:
 2. Feature Extraction - 90%
 
 ## Result/Output
-Used finetuned vgg16 for prediction since the accuracy is higher.
+Used finetuned vgg16 for prediction since the accuracy is higher.<br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/54204821/115232674-a2679200-a134-11eb-8cac-68e01cfa5b02.gif)
 <br>
 **Note**:- The gif is not much clear because there is limit of gif in github that is why i reduced the size and the video is not much clear.
